@@ -27,3 +27,4 @@ c:\Users\USER\OneDrive\Documents\webworld\git\.NET Projects\FrontendwBlazor\MyAp
 c:\Users\USER\OneDrive\Documents\webworld\git\.NET Projects\FrontendwBlazor\MyApp\obj\Debug\net8.0\MyApp.pdb
 c:\Users\USER\OneDrive\Documents\webworld\git\.NET Projects\FrontendwBlazor\MyApp\obj\Debug\net8.0\MyApp.genruntimeconfig.cache
 c:\Users\USER\OneDrive\Documents\webworld\git\.NET Projects\FrontendwBlazor\MyApp\obj\Debug\net8.0\ref\MyApp.dll
+C:\Users\USER\OneDrive\Documents\webworld\git\.NET Projects\FrontendwBlazor\myapp\obj\Debug\net8.0\MyApp.sourcelink.json

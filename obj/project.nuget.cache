@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "h1D8ED3qGL+rot6s6Iv2XU6k3/zz68wpsDlkFA2psyywDgndaANKgeYoOdQTvy4h0TVolZFl5FEYb+DRZuXRog==",
+  "dgSpecHash": "+L6srfVaTqq4scb7gNmUC7YwW0oUIZ/sM0GOssL+qPqO12DCj4AU9WXLwZMvfWDQ/7DP1ge2Bn5ZetOHGRbezQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\OneDrive\\Documents\\webworld\\git\\.NET Projects\\FrontendwBlazor\\MyApp\\MyApp.csproj",
+  "projectFilePath": "C:\\Users\\USER\\OneDrive\\Documents\\webworld\\git\\.NET Projects\\FrontendwBlazor\\myapp\\MyApp.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
