@@ -1,8 +1,15 @@
 {
   "version": 2,
-  "dgSpecHash": "+L6srfVaTqq4scb7gNmUC7YwW0oUIZ/sM0GOssL+qPqO12DCj4AU9WXLwZMvfWDQ/7DP1ge2Bn5ZetOHGRbezQ==",
+  "dgSpecHash": "RfaYnA1zAKs5PymkUAdp//BGUlLtUVKrZT2YRVURCD77iNTrPoRMxUjuH0/n9pPYdK3+zlatMiPHfP4vqSbJsg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\USER\\OneDrive\\Documents\\webworld\\git\\.NET Projects\\FrontendwBlazor\\myapp\\MyApp.csproj",
+  "projectFilePath": "C:\\Users\\USER\\OneDrive\\Documents\\webworld\\git\\.NET Projects\\ASP.NET CORE\\FrontendwBlazor\\MyApp\\MyApp.csproj",
   "expectedPackageFiles": [],
-  "logs": []
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: The download of 'https://api.nuget.org/v3-vulnerabilities/2024.05.09.01.15.07/vulnerability.base.json' timed out because no data was received for 60000ms."
+    }
+  ]
 }

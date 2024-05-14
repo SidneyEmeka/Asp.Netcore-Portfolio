@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\USER\\OneDrive\\Documents\\webworld\\git\\.NET Projects\\FrontendwBlazor\\myapp\\MyApp.csproj": {}
+    "C:\\Users\\USER\\OneDrive\\Documents\\webworld\\git\\.NET Projects\\ASP.NET CORE\\FrontendwBlazor\\MyApp\\MyApp.csproj": {}
   },
   "projects": {
-    "C:\\Users\\USER\\OneDrive\\Documents\\webworld\\git\\.NET Projects\\FrontendwBlazor\\myapp\\MyApp.csproj": {
+    "C:\\Users\\USER\\OneDrive\\Documents\\webworld\\git\\.NET Projects\\ASP.NET CORE\\FrontendwBlazor\\MyApp\\MyApp.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Documents\\webworld\\git\\.NET Projects\\FrontendwBlazor\\myapp\\MyApp.csproj",
+        "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Documents\\webworld\\git\\.NET Projects\\ASP.NET CORE\\FrontendwBlazor\\MyApp\\MyApp.csproj",
         "projectName": "MyApp",
-        "projectPath": "C:\\Users\\USER\\OneDrive\\Documents\\webworld\\git\\.NET Projects\\FrontendwBlazor\\myapp\\MyApp.csproj",
+        "projectPath": "C:\\Users\\USER\\OneDrive\\Documents\\webworld\\git\\.NET Projects\\ASP.NET CORE\\FrontendwBlazor\\MyApp\\MyApp.csproj",
         "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\USER\\OneDrive\\Documents\\webworld\\git\\.NET Projects\\FrontendwBlazor\\myapp\\obj\\",
+        "outputPath": "C:\\Users\\USER\\OneDrive\\Documents\\webworld\\git\\.NET Projects\\ASP.NET CORE\\FrontendwBlazor\\MyApp\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"

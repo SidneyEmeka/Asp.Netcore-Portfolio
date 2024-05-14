@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Documents\\webworld\\git\\.NET Projects\\FrontendwBlazor\\MyApp\\MyApp.csproj",
+      "projectUniqueName": "C:\\Users\\USER\\OneDrive\\Documents\\webworld\\git\\.NET Projects\\ASP.NET CORE\\FrontendwBlazor\\MyApp\\MyApp.csproj",
       "projectName": "MyApp",
-      "projectPath": "C:\\Users\\USER\\OneDrive\\Documents\\webworld\\git\\.NET Projects\\FrontendwBlazor\\MyApp\\MyApp.csproj",
+      "projectPath": "C:\\Users\\USER\\OneDrive\\Documents\\webworld\\git\\.NET Projects\\ASP.NET CORE\\FrontendwBlazor\\MyApp\\MyApp.csproj",
       "packagesPath": "C:\\Users\\USER\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\USER\\OneDrive\\Documents\\webworld\\git\\.NET Projects\\FrontendwBlazor\\MyApp\\obj\\",
+      "outputPath": "C:\\Users\\USER\\OneDrive\\Documents\\webworld\\git\\.NET Projects\\ASP.NET CORE\\FrontendwBlazor\\MyApp\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\USER\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -65,5 +65,13 @@
         "runtimeIdentifierGraphPath": "C:\\Users\\USER\\AppData\\Roaming\\.dotnet\\sdk\\8.0.100/PortableRuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1900",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Error occurred while getting package vulnerability data: The download of 'https://api.nuget.org/v3-vulnerabilities/2024.05.09.01.15.07/vulnerability.base.json' timed out because no data was received for 60000ms."
+    }
+  ]
 }
